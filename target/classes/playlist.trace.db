@@ -1,0 +1,3 @@
+2023-03-04 07:09:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "update playlist set musicDirector[*]()=? where songId=?"; expected "., ="; SQL statement:
+update playlist set musicDirector()=? where songId=? [42001-214]
